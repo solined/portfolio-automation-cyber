@@ -11,12 +11,19 @@ Portfolio regroupant mes projets récents en **forensic numérique**, **OSINT**,
 
 ### 🛠️ Backend Development 
 - **API Portfolio (Symfony / OpenAPI / Docker)**
-  - Évolution **V1 à V4** : squelette minimal, architecture backend, services, validation, CRUD REST, conteneurisation, persistance, documentation OpenAPI.
-  - Liens :
-    - [**V1** – Squelette minima](https://github.com/solined/API-portfolio-V1)
+  - Évolution pédagogique **V1 → V4** : squelette minimal, architecture backend, services, validation, CRUD REST, conteneurisation, persistance, documentation OpenAPI.   
+  - **Liens** :
+    - [**V1** – Squelette minimal, structure de base](https://github.com/solined/API-portfolio-V1)
     - [**V2** – Architecture + Services](https://github.com/solined/API-portfolio-V2)
     - [**V3** – Dockerisation + Persistance](https://github.com/solined/API-portfolio-V3)
     - [**V4** – OpenAPI + Finalisation](https://github.com/solined/API-portfolio-V4)  
+<!---
+V1	Squelette PHP + OpenAPI + tests simples + CI
+V2	API Symfony minimaliste exécutable (via Docker minimal)
+V2.5	Migration complète vers YAML (routes, services, config)
+V3	API REST complète (CRUD + services + validation)
+V4	Dockerisation + outils + automation
+--->
 
 ### ⚙️ Automation & DevOps 
 - **n8n Workflows & Automation**
