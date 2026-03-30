@@ -41,7 +41,11 @@ Portfolio regroupant mes projets récents en **forensic numérique**, **OSINT**,
 - **Mini-DFIR / Analyse après incident**
   - Analyse d'images disques tests (Autopsy, Sleuth Kit), timeline events, extraction d'artefacts.  
   - Lien : privé sur demande
-    <!--- (sample Markdown + exports) --->  
+    <!--- (sample Markdown + exports) --->
+- **🐍 Forensic Python Parser *(Python 3 • pandas • matplotlib • tqdm )***  
+Projet de parsing et visualisation de données forensic issues d’Autopsy.  
+**Objectif :** parser les exports Autopsy (CSV / Timeline), générer une timeline chronologique et produire des graphiques.  
+<!--- Lecture des exports CSV d’Autopsy, Génération de timeline Markdown, Graphiques (événements par date) via Matplotlib, Filtrage par type d’événement ou date --->  
 
 ### 🌐 OSINT & Data Analysis : 
 - **Multi‑Source OSINT Collection & Enrichment** :
